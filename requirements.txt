@@ -1,0 +1,3 @@
+# discord.py or py-cord
+py-cord
+requests
