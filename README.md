@@ -1,4 +1,4 @@
-# About Me DiscordBot
+# AboutMe DiscordBot
 Discord bot for sending your Activities and Status to your API
 
 Made for [AboutMe-Page](https://github.com/HypedDomi/AboutMe-Page)
