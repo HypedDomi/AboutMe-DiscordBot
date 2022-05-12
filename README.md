@@ -1,5 +1,7 @@
-# About Me Page
+# About Me DiscordBot
 Discord bot for sending your Activities and Status to your API
+
+Made for [AboutMe-Page](https://github.com/HypedDomi/AboutMe-Page)
 
 ## Run Locally
 Clone the project
